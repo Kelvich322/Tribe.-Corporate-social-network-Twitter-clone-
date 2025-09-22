@@ -32,6 +32,5 @@ Thumbs.db
 htmlcov/
 
 # Build
-dist/
 build/
 *.egg-info/
