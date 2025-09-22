@@ -30,7 +30,7 @@
 
 ```bash
 git clone https://github.com/Kelvich322/Tribe.-Corporate-social-network-Twitter-clone-.git
-cd Tribe
+cd Tribe.-Corporate-social-network-Twitter-clone-
 ```
 
 ### 2. Настройка переменных окружения
