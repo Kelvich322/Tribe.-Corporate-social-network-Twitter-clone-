@@ -29,7 +29,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Kelvich322/Tribe.-Corporate-social-network-Twitter-clone-.git
 cd Tribe
 ```
 
